@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bechmark", "Bechmark\Bechmark.csproj", "{B5AA7AC6-DC8E-447C-8EE9-E152201C64D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{C3466B04-C228-4D88-A736-757B81ABA16B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5AA7AC6-DC8E-447C-8EE9-E152201C64D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AA7AC6-DC8E-447C-8EE9-E152201C64D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AA7AC6-DC8E-447C-8EE9-E152201C64D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AA7AC6-DC8E-447C-8EE9-E152201C64D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3466B04-C228-4D88-A736-757B81ABA16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3466B04-C228-4D88-A736-757B81ABA16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3466B04-C228-4D88-A736-757B81ABA16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3466B04-C228-4D88-A736-757B81ABA16B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {779EC94D-DC2E-4397-8510-F3C7E1079A7A}
+	EndGlobalSection
+EndGlobal
